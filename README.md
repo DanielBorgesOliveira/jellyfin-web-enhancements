@@ -11,6 +11,7 @@ self-contained and can be installed independently.
 | VR | [`jellyfin-video360-viewer.js`](enhancements/vr/jellyfin-video360-viewer.js) | 360° video playback |
 | VR | [`jellyfin-photo360-viewer.js`](enhancements/vr/jellyfin-photo360-viewer.js) | 360° photo viewing |
 | Playback | [`jellyfin-swipe-seek.js`](enhancements/playback/jellyfin-swipe-seek.js) | Touch/mouse swipe seeking |
+| Playback | [`jellyfin-picture-in-picture.js`](enhancements/playback/jellyfin-picture-in-picture.js) | Picture-in-Picture fallback beside Fullscreen |
 | Display | [`jellyfin-auto-rotate.js`](enhancements/display/jellyfin-auto-rotate.js) | Landscape orientation during fullscreen playback |
 | Diagnostics | [`jellyfin-debug.js`](enhancements/diagnostics/jellyfin-debug.js) | Confirms that JavaScript injection is working |
 
